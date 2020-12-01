@@ -15,3 +15,38 @@ I don't really have a favourite game as it tend to depends on what Genre we are 
 3. Final fantasy 10
 4. Harvest Moon
 5. Animal crossing
+
+To do List:
+[x] Create this Demo
+[ ] Complete 1k case study
+[ ] Catch up on coding
+
+
+(Heading) Snippet
+typedef int cost;
+
+enum CarMake
+{
+	FORD = 1,
+	FIAT,
+	TESLA,
+	VW,
+	BMW,
+	ASTONMARTIN,
+	HONDA,
+	NISSAN,
+	TOYOTA,
+	AUDI,
+	JAGUAR,
+	DODGE
+};
+
+
+int main()
+{
+	cost currentCost = 13000;
+	CarMake thisMake = HONDA;
+
+	std::cout << "The cost of my car is:" << currentCost << std::endl;
+	std::cout << "My car id is: " << thisMake << std::endl;
+}
