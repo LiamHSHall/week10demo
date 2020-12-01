@@ -4,6 +4,6 @@
 ![image](https://cdn.discordapp.com/attachments/543146135645323275/782671975847690240/20201129_181640.jpg)
 <link rel="Lets visit my linked-in" href="https://www.linkedin.com/in/liam-hall-44486a150/">
 
-[Let's visit my Lined-in] (https://www.linkedin.com/in/liamhshall/)
+[Let's visit my Lined-in](https://www.linkedin.com/in/liamhshall/)
 
-![image] (https://octodex.github.com/baracktocat/)
+![image](https://octodex.github.com/baracktocat/)
