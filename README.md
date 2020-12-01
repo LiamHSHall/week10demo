@@ -6,4 +6,4 @@
 
 [Let's visit my Lined-in](https://www.linkedin.com/in/liamhshall/)
 
-![image](https://octodex.github.com/baracktocat/)
+![image](https://octodex.github.com/images/baracktocat.jpg)
