@@ -7,3 +7,11 @@
 [Let's visit my Lined-in](https://www.linkedin.com/in/liamhshall/)
 
 ![image](https://octodex.github.com/images/baracktocat.jpg)
+
+I don't really have a favourite game as it tend to depends on what Genre we are talking about along with my mood, but here is my current top 5 games;
+
+1. FiveM (GTARP)
+2. Stardew Valley
+3. Final fantasy 10
+4. Harvest Moon
+5. Animal crossing
