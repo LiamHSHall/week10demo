@@ -22,7 +22,7 @@ To do List:
 [ ] Catch up on coding
 
 
-(Heading) Snippet
+#10 A Snippet
 typedef int cost;
 
 enum CarMake
